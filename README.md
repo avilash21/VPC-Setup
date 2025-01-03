@@ -13,3 +13,5 @@ SSH key pair and access control: Generate an SSH key pair and securely store the
 Test and validate the setup: SSH into the EC2 instances using the private key and verify connectivity. Test network connectivity between instances in different subnets. Validate security group rules and network ACL settings.
 
 By implementing this project, you'll gain hands-on experience in setting up a secure VPC with EC2 instances, implementing networking and routing, configuring security groups and IAM roles, and ensuring proper access control. This project will provide a practical understanding of how these AWS services work together to create a secure and scalable infrastructure for your applications.
+
+![image](https://github.com/user-attachments/assets/95f25a42-9abc-40a9-97bb-f56f0eaf20da)
